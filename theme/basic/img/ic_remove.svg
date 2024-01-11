@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16.94" height="18" viewBox="0 0 16.94 18">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_40052" data-name="사각형 40052" width="1.518" height="7.199" transform="translate(0 0)" fill="none" stroke="#ddd" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="그룹_63389" data-name="그룹 63389" transform="translate(-168 -294)">
+    <path id="패스_97772" data-name="패스 97772" d="M16.951,28.589h-6.06a2.427,2.427,0,0,1-2.414-2.174L7.233,14.561H20.609L19.365,26.415a2.427,2.427,0,0,1-2.414,2.174" transform="translate(162.549 282.911)" fill="#fff" stroke="#ddd" stroke-width="1"/>
+    <path id="패스_97773" data-name="패스 97773" d="M16.951,28.589h-6.06a2.427,2.427,0,0,1-2.414-2.174L7.233,14.561H20.609L19.365,26.415A2.427,2.427,0,0,1,16.951,28.589Z" transform="translate(162.549 282.911)" fill="none" stroke="#ddd" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="선_150" data-name="선 150" x2="16.94" transform="translate(168 297.472)" fill="#fff" stroke="#ddd" stroke-width="1"/>
+    <line id="선_151" data-name="선 151" x2="16.94" transform="translate(168 297.472)" fill="none" stroke="#ddd" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="패스_97774" data-name="패스 97774" d="M29.045,5.472H23.866V3.887A1.387,1.387,0,0,1,25.253,2.5h2.4a1.387,1.387,0,0,1,1.387,1.387Z" transform="translate(150.014 292)" fill="none" stroke="#ddd" stroke-miterlimit="10" stroke-width="1"/>
+    <g id="그룹_63385" data-name="그룹 63385" transform="translate(177.627 300.768)" clip-path="url(#clip-path)">
+      <line id="선_152" data-name="선 152" x1="0.288" y2="7.149" transform="translate(0.615 0.025)" fill="none" stroke="#ddd" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+    <g id="그룹_63388" data-name="그룹 63388" transform="translate(173.794 300.768)" clip-path="url(#clip-path)">
+      <line id="선_153" data-name="선 153" x1="0.288" y1="7.149" transform="translate(0.615 0.025)" fill="none" stroke="#ddd" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

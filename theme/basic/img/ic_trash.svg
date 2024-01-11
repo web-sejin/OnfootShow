@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="13.95" height="15" viewBox="0 0 13.95 15">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_40052" data-name="사각형 40052" width="1.25" height="5.928" transform="translate(0 0)" fill="none" stroke="#ddd" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="그룹_63390" data-name="그룹 63390" transform="translate(-168 -294)">
+    <path id="패스_97772" data-name="패스 97772" d="M15.236,26.114H10.245a2,2,0,0,1-1.988-1.79L7.233,14.561H18.248l-1.024,9.762a2,2,0,0,1-1.988,1.79" transform="translate(162.235 282.386)" fill="#fff" stroke="#ddd" stroke-width="1"/>
+    <path id="패스_97773" data-name="패스 97773" d="M15.236,26.114H10.245a2,2,0,0,1-1.988-1.79L7.233,14.561H18.248l-1.024,9.762A2,2,0,0,1,15.236,26.114Z" transform="translate(162.235 282.386)" fill="none" stroke="#ddd" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="선_150" data-name="선 150" x2="13.95" transform="translate(168 296.947)" fill="#fff" stroke="#ddd" stroke-width="1"/>
+    <line id="선_151" data-name="선 151" x2="13.95" transform="translate(168 296.947)" fill="none" stroke="#ddd" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="패스_97774" data-name="패스 97774" d="M28.131,4.947H23.866V3.642A1.142,1.142,0,0,1,25.008,2.5h1.981a1.142,1.142,0,0,1,1.142,1.142Z" transform="translate(148.977 292)" fill="none" stroke="#ddd" stroke-miterlimit="10" stroke-width="1"/>
+    <g id="그룹_63385" data-name="그룹 63385" transform="translate(175.928 299.662)" clip-path="url(#clip-path)">
+      <line id="선_152" data-name="선 152" x1="0.237" y2="5.888" transform="translate(0.507 0.02)" fill="none" stroke="#ddd" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+    <g id="그룹_63388" data-name="그룹 63388" transform="translate(172.772 299.662)" clip-path="url(#clip-path)">
+      <line id="선_153" data-name="선 153" x1="0.237" y1="5.888" transform="translate(0.507 0.02)" fill="none" stroke="#ddd" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
